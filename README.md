@@ -21,7 +21,7 @@ This is a very simple game, almost require Mechanics are done.
 - [x] Player health and damage system
 - [x] Shooting and destroying obstacles
 - [x] Gun with ammo and reload mechanic
-- [o] Ragdoll on player death (not yet because don't have enough time)
+-  Ragdoll on player death (not yet because don't have enough time)
 - [x] Increasing difficulty over time
 - [x] UI for Health, Score, and Ammo
 
